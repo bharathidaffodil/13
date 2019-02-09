@@ -21,7 +21,7 @@ int main()
  printf("odd");
  }
 else
-printf("Invalid");
+printf("invalid");
 
   
   return 0;
