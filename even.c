@@ -13,13 +13,13 @@ int main()
   
  if(n%2==0)
   
- printf("even");
+ printf("Even");
  
   elseif
   
  printf("odd");
 else
-printf("invalid");
+printf("Invalid");
 
   
   return 0;
