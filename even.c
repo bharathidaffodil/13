@@ -16,7 +16,7 @@ int main()
   
  printf("Even");
  
-  elseif
+  else if(n%2!=0)
   
  printf("odd");
  }
