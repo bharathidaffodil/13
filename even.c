@@ -6,7 +6,8 @@ int main()
 {
  
   int n;
- 
+ if(n>=0)
+ {
   
  
  scanf("%d",&n);
@@ -18,6 +19,7 @@ int main()
   elseif
   
  printf("odd");
+ }
 else
 printf("Invalid");
 
